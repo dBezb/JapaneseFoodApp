@@ -5,7 +5,7 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: 'Roll "Sushija"',
+    name: 'Roll "Naomi"',
     description:
       "Philadelphia cheese, chicken fillet, masago, tomato, cucumber, sesame seeds",
     price: 11.99,
