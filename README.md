@@ -1,1 +1,1 @@
-In this application written on React.js, you can see a Japanese restaurant where you can choose dishes to your taste and add them to the cart, in the cart you can also add or subtract the amount of the selected dish.
+In this application written on React.js, you can see a Japanese restaurant where you can choose dishes to your taste and add them to the cart(the number of added dishes will change on the cart icon), in the cart you can also add or subtract the amount of the selected dish.
